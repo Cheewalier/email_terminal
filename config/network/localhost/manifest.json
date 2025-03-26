@@ -1,12 +1,12 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverAddress": "Apollo 1",
+    "serverName": "Registro de Pesquisa - DHE",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "Y25",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anonymous"
+        "userId": "Dr. Cliff Hughes",
+        "password": "admin@admin",
+        "userName": "anon"
     },
     "initialHistory": {
         "user": [
